@@ -1,6 +1,4 @@
 require 'pry'
-# require_relative "../lib/concerns/memorable"
-# require_relative './fancy_dance.rb'
 
 class Song
   extend Memorable::ClassMethods
